@@ -1,0 +1,1 @@
+Unpack and open index.html. Replace /assets images as needed.
